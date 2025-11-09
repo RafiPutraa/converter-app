@@ -18,7 +18,7 @@
             android:name=".view.LengthActivity"
             android:exported="false" />
         <activity
-            android:name=".view.TemperatureActivity"
+            android:name=".view.MainActivity"
             android:exported="false" />
         <activity
             android:name=".view.CurrencyActivity"
@@ -30,7 +30,7 @@
             android:name=".view.MenuActivity"
             android:exported="false" />
         <activity
-            android:name=".view.MainActivity"
+            android:name=".view.TemperatureActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
